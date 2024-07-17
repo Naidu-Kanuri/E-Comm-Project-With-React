@@ -1,0 +1,13 @@
+.product-container{
+    background-color: rgb(197, 197, 197);
+    height: 100vh;
+    color: #001f83;
+}
+.product-info-image{
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(120, 0, 156);
+    padding: 10px;
+    margin-bottom: 25px;
+}
