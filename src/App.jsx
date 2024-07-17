@@ -42,8 +42,8 @@ const App = () => {
     }, [userSearch])
 
 
-  const getSearchKeyword = (userKeySearching) => {
-    setUserSearch(userKeySearching);
+  const getSearchKeyword = (userKeySearch) => {
+    setUserSearch(userKeySearch);
   }
 
   
